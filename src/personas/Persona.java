@@ -16,7 +16,7 @@ public class Persona {
     private int edad;
 
     static final int MAYORIA_EDAD = 18;
-    static final int JUBILACION_EDAD = 67;
+    static final int JUBILACION_EDAD = 68;
 
     /**
      * Constructor
