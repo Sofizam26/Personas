@@ -6,6 +6,8 @@ import java.util.regex.Pattern;
  * @autor IES Virgen de la Paloma
  * @version 2
  */
+
+
 public class Persona {
 
     private String dni;
